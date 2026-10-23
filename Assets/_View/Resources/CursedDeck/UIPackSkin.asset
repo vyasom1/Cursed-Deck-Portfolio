@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2c24766e3635724eb8c7156c4b1e673, type: 3}
+  m_Name: UIPackSkin
+  m_EditorClassIdentifier: CursedDeck.View::CursedDeck.View.UIPackSkin
+  Background: {fileID: 21300000, guid: 11f7004b28a10de4bb8f22d55a12f1d4, type: 3}
+  TitlePlaque: {fileID: 5901414772975505545, guid: 8b6dab2f678f66a44b49eb6edafeffae, type: 3}
+  FloorInfo: {fileID: -5824213542186775540, guid: 6d891acab1b9ecd4295573ba526c151f, type: 3}
+  ScorePanel: {fileID: -3103634106792823384, guid: 3f76e148c08350f4c96d9c2a036402c9, type: 3}
+  ResourcePanel: {fileID: -6088889168934735064, guid: baced647eddb2de43bb27c0ffada228d, type: 3}
+  InstructionPanel: {fileID: -8894644708237241300, guid: c0db5451fa8f4d247a741a0d58c942cf, type: 3}
+  StatusBar: {fileID: -3216543850617775171, guid: 54e0e402b6ab16642ae8a83e34cbae65, type: 3}
+  DrawDefault: {fileID: -5664790410886266413, guid: f141fc4224216fd4992be805ca490675, type: 3}
+  DrawHover: {fileID: 2829562044713398956, guid: b27979bb596df02498a85564420ea77a, type: 3}
+  DrawDisabled: {fileID: -3006007435894926490, guid: d9fa398eba036344695141cf32487794, type: 3}
+  SecondaryButton: {fileID: -8575612177632841694, guid: b02f40f259c839541bffc072aad2a034, type: 3}
+  CardBack: {fileID: 21300000, guid: a638ebb81a6d9f840b83ea0d276453d7, type: 3}
+  CardFrame: {fileID: 21300000, guid: a957e6cd11186e4429062f200835c999, type: 3}
+  Settings: {fileID: 7886631795410796208, guid: 28ba7d93789e95f4fb511a03893d1ca1, type: 3}
+  Gold: {fileID: -1321871828183589706, guid: a36d99c01c276b042b9fc4d3fd9b55c9, type: 3}
+  Relic: {fileID: -8546717243334140335, guid: 5da011e2670cbcd42acb7391df9b3bf4, type: 3}
+  SuitMaterials:
+  - {fileID: 0}
+  - {fileID: 2100000, guid: 5ee9b4a23efe70343a7ae10942a22e48, type: 2}
+  - {fileID: 0}
+  - {fileID: 2100000, guid: c9fd8541f809b5e43bffca1ba9c60e62, type: 2}
+  Suits:
+  - {fileID: -4964194836321376918, guid: c6371d2afc988cd488f067404a7896ea, type: 3}
+  - {fileID: -6591273510627222715, guid: 0ba18079ec81ea643b97a28923b2b42f, type: 3}
+  - {fileID: -8090987202601988033, guid: 76a9fbb8561745a4b87896baebadee17, type: 3}
+  - {fileID: 171722823602707562, guid: 76b0ac246c4f91549848de6032ba17fc, type: 3}

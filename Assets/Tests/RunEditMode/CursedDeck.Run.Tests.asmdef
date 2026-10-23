@@ -1,0 +1,8 @@
+{
+  "name": "CursedDeck.Run.Tests",
+  "rootNamespace": "CursedDeck.Run.Tests",
+  "references": ["CursedDeck.Core", "CursedDeck.Run", "CursedDeck.Data"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

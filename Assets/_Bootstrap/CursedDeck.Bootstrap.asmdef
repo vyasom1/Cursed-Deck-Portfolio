@@ -1,0 +1,6 @@
+{
+  "name": "CursedDeck.Bootstrap",
+  "rootNamespace": "CursedDeck.Bootstrap",
+  "references": ["CursedDeck.Core","CursedDeck.Run","CursedDeck.Meta","CursedDeck.View","CursedDeck.Data","Unity.InputSystem","Unity.ugui","Unity.TextMeshPro"],
+  "autoReferenced": true
+}

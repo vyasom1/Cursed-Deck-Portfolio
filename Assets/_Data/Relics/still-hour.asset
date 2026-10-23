@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eacc6b71d3a49f59b6d3efa5f6a410d, type: 3}
+  m_Name: still-hour
+  m_EditorClassIdentifier: CursedDeck.Data::CursedDeck.Data.RelicDefinition
+  id: still-hour
+  relicIcon: {fileID: 21300000, guid: d0c06132a5c9b8a4c8c6ccb7f69ef430, type: 3}
+  displayName: Still Hour
+  description: Start every round with two extra draw allowances. Creates no stock
+    cards.
+  kind: 17
+  order: 167
+  amount: 2
+  interval: 1
+  multiplier: 1

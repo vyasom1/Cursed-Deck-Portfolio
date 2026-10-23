@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff32256d4a459a4c9bcb078a9e79860, type: 3}
+  m_Name: Content
+  m_EditorClassIdentifier: CursedDeck.Data::CursedDeck.Data.GameContent
+  relics:
+  - {fileID: 11400000, guid: 99aa0d11df63528458d90aaa1f2b9c4f, type: 2}
+  - {fileID: 11400000, guid: 6fccfc4d7bf80444198bd9e66d336979, type: 2}
+  - {fileID: 11400000, guid: b23712cdcda3a054dbfb06b54315d4ed, type: 2}
+  - {fileID: 11400000, guid: 6fcf0c59f3c413b458a53e8c896ae7d9, type: 2}
+  - {fileID: 11400000, guid: 49ac493dbbd62904c878fcd4291bd776, type: 2}
+  - {fileID: 11400000, guid: 0f84df970d110dd4fa10fa05164f9e57, type: 2}
+  - {fileID: 11400000, guid: 42d59e6540fe44d409a9f9ed184ba7a4, type: 2}
+  - {fileID: 11400000, guid: 63442bf6d9744624ba0d43bf2f3efffa, type: 2}
+  - {fileID: 11400000, guid: 5d25af8caa381c3489104534a871d677, type: 2}
+  - {fileID: 11400000, guid: 7392f13e4fc24124a8141774a0d94272, type: 2}
+  - {fileID: 11400000, guid: e871c8c3d3c8f88448aa3b48ec8fe75b, type: 2}
+  - {fileID: 11400000, guid: e07c904a3b98713439d8314236dc7abf, type: 2}
+  - {fileID: 11400000, guid: badc2310e1b07964a9083a246b0bb6a1, type: 2}
+  - {fileID: 11400000, guid: 78ee8e8cffec98944aa58e12148b799b, type: 2}
+  - {fileID: 11400000, guid: 7208c4f5b904b9e4f92712a4c755362a, type: 2}
+  layout: {fileID: 11400000, guid: 95d391e3db14d8f4f8d11dc5d043e224, type: 2}
+  rules: {fileID: 11400000, guid: df0ee1d4fa37c344c8497d55ba5fd381, type: 2}
+  font: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  cardFront: {fileID: 21300000, guid: 69dd9f6c054fb2142b85eb5dd166f77e, type: 3}
+  cardBack: {fileID: 21300000, guid: 114c66347e1f4af4482772ef4a1ca47a, type: 3}
+  suitIcons:
+  - {fileID: 21300000, guid: a7adc6b7ebf64ac4f9f752586abf82f6, type: 3}
+  - {fileID: 21300000, guid: 20d82f22be3206d43ac15d0f6d44fed5, type: 3}
+  - {fileID: 21300000, guid: b7de720c461b1ad4b88454aec7381e5e, type: 3}
+  - {fileID: 21300000, guid: 69769b5e0c5ea0345ad28febe799e28c, type: 3}
+  characters: {fileID: 11400000, guid: 17f72047ada49e74bb95fa9dad78d187, type: 2}

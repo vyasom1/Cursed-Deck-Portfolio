@@ -1,0 +1,7 @@
+{
+  "name": "CursedDeck.Run",
+  "rootNamespace": "CursedDeck.Run",
+  "references": ["CursedDeck.Core"],
+  "autoReferenced": false,
+  "noEngineReferences": true
+}

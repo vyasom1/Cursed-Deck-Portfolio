@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e9233f676b1fa8478f63d8c5a3725ec, type: 3}
+  m_Name: Meta
+  m_EditorClassIdentifier: CursedDeck.Data::CursedDeck.Data.MetaDefinition
+  deckCost: 20
+  relicCost: 10
+  baseShards: 2
+  roundShards: 5
+  winShards: 20
+  unlockRelics:
+  - {fileID: 11400000, guid: 5819660eda769f542bc890469e92512c, type: 2}
+  - {fileID: 11400000, guid: 3a36aa1689b80924fb9d8249883274ae, type: 2}
+  - {fileID: 11400000, guid: a9d5b722afe25c641b740788bc9d2484, type: 2}
+  - {fileID: 11400000, guid: d6c3c5d21dd89d74f996b6f0d409009c, type: 2}
+  - {fileID: 11400000, guid: f2378d567f5ef324ca0e811fdd3d4361, type: 2}

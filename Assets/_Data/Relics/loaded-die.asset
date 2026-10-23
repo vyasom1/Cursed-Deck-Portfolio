@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eacc6b71d3a49f59b6d3efa5f6a410d, type: 3}
+  m_Name: Loaded Die
+  m_EditorClassIdentifier: 
+  id: loaded-die
+  relicIcon: {fileID: 21300000, guid: 5fdf1a3b5809ea64d8990010b1a2a84f, type: 3}
+  displayName: Loaded Die
+  description: Kings are wild when played and as waste.
+  kind: 0
+  order: 10
+  amount: 1
+  interval: 1
+  multiplier: 1

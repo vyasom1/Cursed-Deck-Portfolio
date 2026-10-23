@@ -1,0 +1,23 @@
+{
+  "name": "CursedDeck.View.Tests",
+  "references": [
+    "CursedDeck.Core",
+    "CursedDeck.Run",
+    "CursedDeck.View",
+    "CursedDeck.Data",
+    "CursedDeck.Meta",
+    "CursedDeck.Bootstrap",
+    "Unity.ugui",
+    "Unity.TextMeshPro",
+    "Unity.InputSystem",
+    "CursedDeck.Bootstrap.Editor",
+    "CursedDeck.Services"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

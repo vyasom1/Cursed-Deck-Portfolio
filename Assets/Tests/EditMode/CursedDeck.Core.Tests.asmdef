@@ -1,0 +1,9 @@
+{
+  "name": "CursedDeck.Core.Tests",
+  "rootNamespace": "CursedDeck.Core.Tests",
+  "references": ["CursedDeck.Core"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false,
+  "noEngineReferences": true
+}

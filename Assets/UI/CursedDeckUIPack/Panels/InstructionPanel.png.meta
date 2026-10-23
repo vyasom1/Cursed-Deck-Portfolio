@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: c0db5451fa8f4d247a741a0d58c942cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8894644708237241300
+    second: InstructionPanel_0
+  - first:
+      213: -3535020311250625130
+    second: InstructionPanel_1
+  - first:
+      213: 1368534853759810050
+    second: InstructionPanel_2
+  - first:
+      213: 7938700647556258803
+    second: InstructionPanel_3
+  - first:
+      213: 3857223001493991323
+    second: InstructionPanel_4
+  - first:
+      213: 4674031258045651563
+    second: InstructionPanel_5
+  - first:
+      213: 2125764031878814631
+    second: InstructionPanel_6
+  - first:
+      213: 7986631679524706755
+    second: InstructionPanel_7
+  - first:
+      213: -6130627711496812885
+    second: InstructionPanel_8
+  - first:
+      213: -7321223483478042202
+    second: InstructionPanel_9
+  - first:
+      213: -1161517291808433467
+    second: InstructionPanel_10
+  - first:
+      213: 7270260979207787888
+    second: InstructionPanel_11
+  - first:
+      213: -7011366222810359389
+    second: InstructionPanel_12
+  - first:
+      213: -2311140857597031458
+    second: InstructionPanel_13
+  - first:
+      213: 4334763793344623632
+    second: InstructionPanel_14
+  - first:
+      213: 3335003139083010493
+    second: InstructionPanel_15
+  - first:
+      213: -2815739352922662735
+    second: InstructionPanel_16
+  - first:
+      213: -6799045807188975183
+    second: InstructionPanel_17
+  - first:
+      213: 347839174616394773
+    second: InstructionPanel_18
+  - first:
+      213: 2145510545867087169
+    second: InstructionPanel_19
+  - first:
+      213: 8791589407582618682
+    second: InstructionPanel_20
+  - first:
+      213: -605991873023852656
+    second: InstructionPanel_21
+  - first:
+      213: 4238324921091520117
+    second: InstructionPanel_22
+  - first:
+      213: -7808821473081138762
+    second: InstructionPanel_23
+  - first:
+      213: -7351191045075842931
+    second: InstructionPanel_24
+  - first:
+      213: 3263950634963553980
+    second: InstructionPanel_25
+  - first:
+      213: 1140176307680634974
+    second: InstructionPanel_26
+  - first:
+      213: 5440021011568484283
+    second: InstructionPanel_27
+  - first:
+      213: 6184667633006940902
+    second: InstructionPanel_28
+  - first:
+      213: -383551257691435523
+    second: InstructionPanel_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 160, y: 96, z: 160, w: 96}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InstructionPanel
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 56
+        width: 1124
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 160, y: 96, z: 160, w: 96}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24163283cfdf8480800000000000000
+      internalID: -8894644708237241300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InstructionPanel: -8894644708237241300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

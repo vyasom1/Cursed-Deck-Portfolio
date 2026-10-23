@@ -1,0 +1,12 @@
+{
+  "name": "CursedDeck.Data",
+  "rootNamespace": "CursedDeck.Data",
+  "references": [
+    "CursedDeck.Core",
+    "CursedDeck.Run",
+    "Unity.TextMeshPro",
+    "CursedDeck.Meta"
+  ],
+  "autoReferenced": false,
+  "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb2c833a6bd06c04ba7213d570a80b86, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: CursedDeck.Data::CursedDeck.Data.AudioDefinition
+  ambient: {fileID: 8300000, guid: e5f8bc7a3e1bbd54ba150279bf514dd8, type: 3}
+  card: {fileID: 8300000, guid: e370395eeb8724d4e81edf758679a136, type: 3}
+  combo: {fileID: 8300000, guid: 0d81748c1e7a0634daa25bb3a18fc0e7, type: 3}
+  play: {fileID: 8300000, guid: 5c02a189519710946bb7b17f50876670, type: 3}
+  reveal: {fileID: 8300000, guid: 324a41abf5e001a41a51c275c8854ae2, type: 3}
+  purchase: {fileID: 8300000, guid: 930dca42d9b63ca498d2558f737f3a1e, type: 3}
+  win: {fileID: 8300000, guid: 7c6ae110d267b744a8414616c7979784, type: 3}
+  defeat: {fileID: 8300000, guid: 70f415a49f5a9b04abb53ffae5f10806, type: 3}

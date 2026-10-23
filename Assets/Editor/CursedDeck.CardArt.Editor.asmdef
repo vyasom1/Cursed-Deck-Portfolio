@@ -1,0 +1,10 @@
+{
+  "name": "CursedDeck.CardArt.Editor",
+  "references": [
+    "CursedDeck.Bootstrap.Editor"
+  ],
+  "autoReferenced": false,
+  "includePlatforms": [
+    "Editor"
+  ]
+}

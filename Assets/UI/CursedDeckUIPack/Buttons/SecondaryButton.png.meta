@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: b02f40f259c839541bffc072aad2a034
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8575612177632841694
+    second: SecondaryButton_0
+  - first:
+      213: -4355493780420870103
+    second: SecondaryButton_1
+  - first:
+      213: -8556847750513221425
+    second: SecondaryButton_2
+  - first:
+      213: -435228604710418880
+    second: SecondaryButton_3
+  - first:
+      213: -25154441879791373
+    second: SecondaryButton_4
+  - first:
+      213: -8110618994988169225
+    second: SecondaryButton_5
+  - first:
+      213: -4748345335624939845
+    second: SecondaryButton_6
+  - first:
+      213: -169774028367022812
+    second: SecondaryButton_7
+  - first:
+      213: -4112124777653190014
+    second: SecondaryButton_8
+  - first:
+      213: 8890892660444536867
+    second: SecondaryButton_9
+  - first:
+      213: -3922586379350718417
+    second: SecondaryButton_10
+  - first:
+      213: -8716710261457565780
+    second: SecondaryButton_11
+  - first:
+      213: -7497634778256305704
+    second: SecondaryButton_12
+  - first:
+      213: 3733513427343721087
+    second: SecondaryButton_13
+  - first:
+      213: 4922318296724141549
+    second: SecondaryButton_14
+  - first:
+      213: 4797901695930561394
+    second: SecondaryButton_15
+  - first:
+      213: 5188703697897608606
+    second: SecondaryButton_16
+  - first:
+      213: 6213095765568158237
+    second: SecondaryButton_17
+  - first:
+      213: -2618974937824423233
+    second: SecondaryButton_18
+  - first:
+      213: -5661898125213782095
+    second: SecondaryButton_19
+  - first:
+      213: -4122814663952914778
+    second: SecondaryButton_20
+  - first:
+      213: 5195261948843002281
+    second: SecondaryButton_21
+  - first:
+      213: 823663587919493544
+    second: SecondaryButton_22
+  - first:
+      213: 5936183973760525774
+    second: SecondaryButton_23
+  - first:
+      213: -4428601433837429777
+    second: SecondaryButton_24
+  - first:
+      213: -6315042684914420945
+    second: SecondaryButton_25
+  - first:
+      213: 6742690997386447028
+    second: SecondaryButton_26
+  - first:
+      213: 4494504443466113745
+    second: SecondaryButton_27
+  - first:
+      213: -7377741601350676192
+    second: SecondaryButton_28
+  - first:
+      213: 7976855686148245600
+    second: SecondaryButton_29
+  - first:
+      213: -1687589292323058726
+    second: SecondaryButton_30
+  - first:
+      213: 8693150456618926339
+    second: SecondaryButton_31
+  - first:
+      213: -4177628337150339447
+    second: SecondaryButton_32
+  - first:
+      213: -5931720708600835713
+    second: SecondaryButton_33
+  - first:
+      213: 4845999357717270545
+    second: SecondaryButton_34
+  - first:
+      213: 8645265343297209944
+    second: SecondaryButton_35
+  - first:
+      213: -5456105381978577495
+    second: SecondaryButton_36
+  - first:
+      213: -1091133550813484418
+    second: SecondaryButton_37
+  - first:
+      213: -4265784296850605102
+    second: SecondaryButton_38
+  - first:
+      213: 6480917771114866072
+    second: SecondaryButton_39
+  - first:
+      213: -2737536570546014573
+    second: SecondaryButton_40
+  - first:
+      213: -1109318173983127381
+    second: SecondaryButton_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 160, y: 96, z: 160, w: 96}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SecondaryButton
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 177
+        width: 2141
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 160, y: 96, z: 160, w: 96}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2203ea4f82e4df880800000000000000
+      internalID: -8575612177632841694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SecondaryButton: -8575612177632841694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

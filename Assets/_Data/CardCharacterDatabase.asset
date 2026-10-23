@@ -1,0 +1,667 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c03614a6cf4a64691962119f0b612a, type: 3}
+  m_Name: CardCharacterDatabase
+  m_EditorClassIdentifier: CursedDeck.Data::CursedDeck.Data.CardCharacterDatabase
+  catalogVersion: 3
+  defaultCardBack: {fileID: 21300000, guid: a638ebb81a6d9f840b83ea0d276453d7, type: 3}
+  characters:
+  - suit: 0
+    rank: 1
+    characterName: Nhal
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: hovering above an open rift with a crown of broken runes
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: 68546da73ef69e643b8f1a2b8f7c87b2, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 4fbfc783837744c42a3d9c69171bbea7, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: de4d2a876532115449a3fb5755b6fa83, type: 3}
+  - suit: 0
+    rank: 2
+    characterName: Netherling Prowler
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: crouched with spectral claws
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: ac01b220b65fe78478b0c41233e50509, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 0ee98f1df4541624b9f2e82ec9f36d55, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: 97e4342aab3266b45b320ef94489f683, type: 3}
+  - suit: 0
+    rank: 3
+    characterName: Amethyst Hexling
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: weaving a floating violet hex sigil
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: bfbd4e79315e223478ab76b64defc620, type: 3}
+    fallbackArt: {fileID: 21300000, guid: bb15e61f4194cf94bb051b062a1aa49c, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: 992560c23df526c4e9fa5f3138309026, type: 3}
+  - suit: 0
+    rank: 4
+    characterName: Riftmarked Hunter
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: drawing a hooked demon-hunting crossbow
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: 5bc90cb56ce6f9b4fbae0ed2b3cefab7, type: 3}
+    fallbackArt: {fileID: 21300000, guid: c8c2502bea82748499f2ece4dc28583c, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: b9c73f955cd8b474585f2b8f0389b8e4, type: 3}
+  - suit: 0
+    rank: 5
+    characterName: Void-Touched Oracle
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: cradling a forbidden amethyst orb
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: 2300d7087a8796447a511d557a7475ab, type: 3}
+    fallbackArt: {fileID: 21300000, guid: f016b02e7c3674e4699b0a51385f23ce, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: 5b52fe9d60935f1479626f9a90c0454b, type: 3}
+  - suit: 0
+    rank: 6
+    characterName: Arcane Covenant Witch
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: raising a spiral staff and spell-bound grimoire
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: 8075317cf15218347ad302b693fd2e4c, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 00315e45df4a10a4f8369eba43c76f6c, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: bb5fcd5470b05a74d84d6f618f3b3d1e, type: 3}
+  - suit: 0
+    rank: 7
+    characterName: Nethermaw Beast
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: rearing with smoky horns and rune-fanged jaws
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: eab87fc00c043d9488a230d65ded327a, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 547ad8a608ca1814cbdcee047623c730, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: 5b8192f2d24648c4fafbf11847664d3c, type: 3}
+  - suit: 0
+    rank: 8
+    characterName: Obsidian Demon Hunter
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: standing with paired crescent blades
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: 5eb74eab8d805b540aa9e946d54cc7fc, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 1305d2d567457d943bd1843ad189497b, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: 1d7fa88425f939343bb4faffd85eefd9, type: 3}
+  - suit: 0
+    rank: 9
+    characterName: Runebound Voidwalker
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: stepping through a portal with a void spear
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: de43ab57be61c2b4abd5e90f241b9471, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 5a5c5bc7ab0cfd64bbc5de52d130b328, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: 65cac8392a3c2154598f2532a8d95340, type: 3}
+  - suit: 0
+    rank: 10
+    characterName: Abyssal Spellbreaker
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: shattering a ward with an obsidian warhammer
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: 7fa7582cabe43ba4daaebf4b01d1bbd3, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 364a7e822e5bbf7418534f94581bfff0, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: d45bf26472042264a8d4cee2cbf06eb1, type: 3}
+  - suit: 0
+    rank: 11
+    characterName: Malrik
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: guarding a rift with a runic halberd
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: 9bade2d735eb006498f3a0a05fac4645, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 87cf0cbca17eb9d469bd90b131114ec8, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: c50e08b413239a34d99248fe213eeab4, type: 3}
+  - suit: 0
+    rank: 12
+    characterName: Vespera
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: casting with a starless scepter and hovering talismans
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: 6dd27d3309fd8f54a86e62cfac433c0a, type: 3}
+    fallbackArt: {fileID: 21300000, guid: ca12dbeec319e9e43896f0a04b314eca, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: e49deef0a09626340ba4ed1bdc9119ce, type: 3}
+  - suit: 0
+    rank: 13
+    characterName: Zerath
+    factionTitle: Void Conclave
+    factionDescription: Void and arcane faction of void walkers, arcane witches,
+      demon hunters and nether beasts, amethyst purple magic, obsidian armor and
+      forbidden runes
+    pose: seated on a floating basalt throne with an arcane greatsword
+    factionColor: {r: 0.8352941, g: 0, b: 0.9764706, a: 1}
+    sourceArt: {fileID: 21300000, guid: 30e0aa8b01f07b84881746bde5d30ace, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 26b99902475068f47b0189e444b54dca, type: 3}
+    emblem: {fileID: 21300000, guid: 07aa1a67488fdae488eb392e9e616ae9, type: 3}
+    portraitArt: {fileID: 21300000, guid: 4cb3fccd6d833b642b9b26fd3d8715a0, type: 3}
+  - suit: 1
+    rank: 1
+    characterName: Asterion
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: levitating with a frozen stellar halo and a crystal staff
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: 98b20b5764a1cb0498332d91a6590239, type: 3}
+    fallbackArt: {fileID: 21300000, guid: f4e96ae9970157140ba0e726e63ccec9, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: a8fdf542fce905240a2e58e9f51c8c65, type: 3}
+  - suit: 1
+    rank: 2
+    characterName: Rimebound Initiate
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: holding a frost lantern in a defensive stance
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: d98faf7ce495b7b4493f259e9b0d4b06, type: 3}
+    fallbackArt: {fileID: 21300000, guid: af09bfc71d26ae64b99999e0fa09319c, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: 7fb59f2d1d76eec4ea95852481953db1, type: 3}
+  - suit: 1
+    rank: 3
+    characterName: Shardveil Ranger
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: drawing an ice-crystal bow
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: db768d40d7bf50740b8928a7de05be5c, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 7b6e53d4697587a43964e55d628dbc59, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: 7964ae1682d002f458cb59543edc123f, type: 3}
+  - suit: 1
+    rank: 4
+    characterName: Frostglass Sentry
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: guarding with a faceted sapphire shield
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: a2d25ac50d532f64e9954cd86901e8b4, type: 3}
+    fallbackArt: {fileID: 21300000, guid: cc5b00b28d384f749b799507af4f4133, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: 02cac916f8169ab4197078449fa05ba0, type: 3}
+  - suit: 1
+    rank: 5
+    characterName: Crystalwake Golem
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: striding with massive glowing crystal fists
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 0}
+    fallbackArt: {fileID: 21300000, guid: 6fe7e73210a78b2488fb06dc4681e773, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 0}
+  - suit: 1
+    rank: 6
+    characterName: Starlit Thaumaturge
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: conjuring a miniature star over an open spellbook
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 0}
+    fallbackArt: {fileID: 21300000, guid: a04e4db28ea7eb44bab97ef339f54eba, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 0}
+  - suit: 1
+    rank: 7
+    characterName: Aurora Spearwarden
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: lunging with a luminous aurora spear
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: 47f18241a0e6e7c448a8a0dc00457295, type: 3}
+    fallbackArt: {fileID: 21300000, guid: e6485a3705cf11e4a921c4beb9326015, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: e059c4bf977dd4e408725fb766604b0f, type: 3}
+  - suit: 1
+    rank: 8
+    characterName: Cometforged Colossus
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: looming with comet-crystal shoulder armor
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: 5d59a3eb434a0e842aeef99e07512bb8, type: 3}
+    fallbackArt: {fileID: 21300000, guid: feb5a4f89b1073e46b13d4072470b9c4, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: a40c84e400c229f47a4d4422bef72ccf, type: 3}
+  - suit: 1
+    rank: 9
+    characterName: Celestial Cryomancer
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: tracing constellations through a cloud of frost
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: c25aaef23f11ea446827e8aef452559c, type: 3}
+    fallbackArt: {fileID: 21300000, guid: f08700069703d3f44986f899752be25d, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: 389d44c08af63034cb9b077a8f905986, type: 3}
+  - suit: 1
+    rank: 10
+    characterName: Glacier Oathkeeper
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: raising a glacier-forged greatshield and mace
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: a483a31c3e1f24b44b583c40abd0d2c6, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 7f283d74f9a75414da353c2bacdc7278, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: d29db58d3f75ea54da020914f620c2af, type: 3}
+  - suit: 1
+    rank: 11
+    characterName: Kaelis
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: kneeling with an icy longsword held upright
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: ae326524ae0e386459675b4b8dd71d6b, type: 3}
+    fallbackArt: {fileID: 21300000, guid: bbbf446e54cd57c4bbea3b3c258edfb8, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: fb8d5badc41575b40bd146f1bba9919e, type: 3}
+  - suit: 1
+    rank: 12
+    characterName: Elyra
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: weaving a spiral of silver stars with a sapphire wand
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: f0297ce9a88ad4c4f87acceec5d21371, type: 3}
+    fallbackArt: {fileID: 21300000, guid: b653fa75644a03c4abae7d81270da860, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: 5fedf9a8e3b3f45439d5734fd6483ec3, type: 3}
+  - suit: 1
+    rank: 13
+    characterName: Orion
+    factionTitle: Frost Constellation
+    factionDescription: Frost and cosmic faction of frost paladins, crystal golems,
+      star mages and archons, sapphire blue ice, silver armor and celestial constellations
+    pose: standing in crystalline regalia with an orbital astrolabe
+    factionColor: {r: 0, g: 0.8980392, b: 1, a: 1}
+    sourceArt: {fileID: 21300000, guid: d1ea335651a833040a1bc47f00cc877b, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 9297ddeb9d0d3b3419e31a688a2927da, type: 3}
+    emblem: {fileID: 21300000, guid: 6384ce41416610e449cbe9c01384af50, type: 3}
+    portraitArt: {fileID: 21300000, guid: f3af69a9ebf409841b01e2b6954d79f5, type: 3}
+  - suit: 2
+    rank: 1
+    characterName: Vaelkris
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: standing beneath a ruby moon with an ornate blood-rune chalice
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 0}
+    fallbackArt: {fileID: 21300000, guid: 0beb6d8c6ad7c574ebff44210ef728f9, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 0}
+  - suit: 2
+    rank: 2
+    characterName: Chalice Thrall
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: kneeling with a ceremonial silver dagger
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: ecddef5eb8ade9f4cb243e05e53bfe2c, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 6172f5faea6633b428e717c5ddbc0ceb, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: cb0e948bd4aca734386cd8d6576f05c5, type: 3}
+  - suit: 2
+    rank: 3
+    characterName: Scarlet Acolyte
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: casting crimson runes between gloved palms
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: 218ccf0bbb9248043be3253c52cf6687, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 03a29590d9eb78a449492d5712311af9, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: f721c06ed6ae3a94fbf75fe6c3773b53, type: 3}
+  - suit: 2
+    rank: 4
+    characterName: Bloodthorn Duelist
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: lunging with an elegant scarlet rapier
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: 6d5e9de50a246544e9c2406de15edf43, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 6a6eae5b178a5ca458bcc587457328ea, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: 441d349bdfbb1e546b296971ca8667de, type: 3}
+  - suit: 2
+    rank: 5
+    characterName: Roseveil Siren
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: singing with a rose-shaped ruby talisman
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: 93085556af7c5d1419282b289d30410f, type: 3}
+    fallbackArt: {fileID: 21300000, guid: aafdbede25394b64e9e36df39ad77857, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: 8c2646e78ac8e6449ad365922f6b7842, type: 3}
+  - suit: 2
+    rank: 6
+    characterName: Crimson Alchemist
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: holding a glowing alchemical vial and a ritual blade
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: af6779ced77ab39498536ef397654bd5, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 1edbcb5b7dad1b7458aebd24fe833f20, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: ca01447fe1789f645b7ae91a6ccd2558, type: 3}
+  - suit: 2
+    rank: 7
+    characterName: Nightcourt Stalker
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: emerging from velvet shadows with twin fang daggers
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: 9ad8a80a3508e704fad352dc0bb50d64, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 495679ddb1c3b8149b6831c8ef31f9f3, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: 5684e4832855f5d43b3b104e19504bf7, type: 3}
+  - suit: 2
+    rank: 8
+    characterName: Sanguine Haruspex
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: reading floating crimson sigils above a silver basin
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: b3690db391d4966449ef1ad56b493605, type: 3}
+    fallbackArt: {fileID: 21300000, guid: c5135b44823de614ba81b355f71754c7, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: 8b3baac92d80ae345b4ac7a5eb6960b7, type: 3}
+  - suit: 2
+    rank: 9
+    characterName: Velvetfang Huntress
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: drawing a barbed ruby longbow
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: acf5b239dbcd76e429df4bd0023ff385, type: 3}
+    fallbackArt: {fileID: 21300000, guid: c948c7f0b829e614f9d3690ca24d7fd5, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: 8c4066720e8eef14abcff8d5ef21e729, type: 3}
+  - suit: 2
+    rank: 10
+    characterName: Ruby Cryptwarden
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: guarding a crypt gate with a crimson poleaxe
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: 9c34cb614b7312d4090a30e16f66823e, type: 3}
+    fallbackArt: {fileID: 21300000, guid: c13431a1b4ec34c4989564f6fe2936ba, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: 1a2b9894279ad7048ae0be79bbf1323c, type: 3}
+  - suit: 2
+    rank: 11
+    characterName: Valerian
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: commanding with a blood-red saber and a gilded cloak
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 21300000, guid: 01efbbe6a6e74614d8b3a6aeff6a3aa2, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 947a41befb95a6c488919d641c125133, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 21300000, guid: 579b62a0e193baf4f881cfe0393e90f8, type: 3}
+  - suit: 2
+    rank: 12
+    characterName: Serynthra
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: standing with a ruby crown and a thorned scepter
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 0}
+    fallbackArt: {fileID: 21300000, guid: c518a420fbcc9f34f81a68463684d6d8, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 0}
+  - suit: 2
+    rank: 13
+    characterName: Vhorzath
+    factionTitle: Blood Covenant
+    factionDescription: Blood and vampirism faction of vampire lords, blood mages,
+      crimson sirens and thralls, ruby crimson magic, velvet and ornate gothic armor
+    pose: enthroned in vampire plate with a crimson greatsword
+    factionColor: {r: 1, g: 0.09019608, b: 0.26666668, a: 1}
+    sourceArt: {fileID: 0}
+    fallbackArt: {fileID: 21300000, guid: 7b02bd1c7f1e4d14ea6cfce5528d34c1, type: 3}
+    emblem: {fileID: 21300000, guid: 9641221b4d7fd1946bb431223bb737a8, type: 3}
+    portraitArt: {fileID: 0}
+  - suit: 3
+    rank: 1
+    characterName: Morcant
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: commanding spectral souls with an emerald necromantic staff
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: ae88c41eb16b28049993199a61c98873, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 9914ee203bad97c42b2fdebdb2d71d11, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: bf108df9ea395f2478a5f92810ee60aa, type: 3}
+  - suit: 3
+    rank: 2
+    characterName: Ashbound Thrall
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: carrying a broken shield and a spectral short sword
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: 0f8766c7f0bc8264980d96e02a5ff3fa, type: 3}
+    fallbackArt: {fileID: 21300000, guid: a3234b51a9a10014e9e92619493d5296, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: 549eb4e877eeafa4aa84da000e477c7c, type: 3}
+  - suit: 3
+    rank: 3
+    characterName: Veilstep Cutthroat
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: crouched with twin shadow daggers
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: 9f57a48fc75a59a4ab232a4a8f66444e, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 5c3372092fdf8f642b22a038a7be6384, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: 9fa140e0ea5f5d54f8a314be2f6c7c28, type: 3}
+  - suit: 3
+    rank: 4
+    characterName: Sepulcher Wraith
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: hovering with torn robes and an emerald lantern
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: dd7eb3c45eb86894599a0c06a727ca3c, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 61c2d1a1355bb2c47b332f161dec0cb5, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: 3bc6b47cfcef69340a1d65b967d0e445, type: 3}
+  - suit: 3
+    rank: 5
+    characterName: Gravewatch Sentinel
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: braced behind a gravestone shield and a rusted spear
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: ac9bb93bc6a5f354da8d7ce11d90c2ad, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 567ba33d6bd12a84190f93f30a1e6703, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: b95f3e7b2bf40a64ab75ea7283df9a51, type: 3}
+  - suit: 3
+    rank: 6
+    characterName: Bone-Sigil Conjurer
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: raising a bone wand and a hovering skull grimoire
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: 26720101e7245054e932a29ad8f7bbd2, type: 3}
+    fallbackArt: {fileID: 21300000, guid: a5642d0e14bed6d478c374cc118a2a8c, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: 75c40bfc7f39b894690b2909b4cb44ad, type: 3}
+  - suit: 3
+    rank: 7
+    characterName: Emerald Banshee
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: singing amid spiraling emerald spirit ribbons
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: 4251a2d9ecc225b4f9c19cd236f249a4, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 2fa31141429fe064f808d88104560708, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: 1181db81778c5754ea8d3bea3bb5b4a3, type: 3}
+  - suit: 3
+    rank: 8
+    characterName: Plaguebound Reaver
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: advancing with a corroded soul-harvesting scythe
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 0}
+    fallbackArt: {fileID: 21300000, guid: 8a2f3e8ba4cfe7447b2ee9bfe8cc0958, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 0}
+  - suit: 3
+    rank: 9
+    characterName: Cryptblade Assassin
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: leaping with a curved cryptblade and trailing smoke
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 0}
+    fallbackArt: {fileID: 21300000, guid: 39a1e6536975b494e81a3e9f9f52b84d, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 0}
+  - suit: 3
+    rank: 10
+    characterName: Dreadmarch Cavalier
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: riding spectral mist with a hooked cavalry lance
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: a0aeeca8541de664aa4711cc439724eb, type: 3}
+    fallbackArt: {fileID: 21300000, guid: dcbe68ae4731c334abd5a1104e618e06, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: 0b876d87c94cf7d4c951eecaefc540d4, type: 3}
+  - suit: 3
+    rank: 11
+    characterName: Ossvyrn
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: standing in blackened plate with a runeblade
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 0}
+    fallbackArt: {fileID: 21300000, guid: 9187a4e3b66168544b84852aaa9e6ab8, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 0}
+  - suit: 3
+    rank: 12
+    characterName: Nyssara
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: spreading a wraith mantle around a jade soul crystal
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: 035ed7d0b339a5e44b6d152d2ae813f8, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 728cebfcd15cb4246b11b1a11e344bd5, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: 2d37379a62aca82479ecce420193bb45, type: 3}
+  - suit: 3
+    rank: 13
+    characterName: Xal'Thur
+    factionTitle: Shadow Order
+    factionDescription: Shadow and necromancy faction of liches, death knights, wraiths
+      and shadow assassins, emerald green soul fire, blackened armor and ancient
+      bone sigils
+    pose: standing on a bone dais with a phylactery and a death staff
+    factionColor: {r: 0, g: 0.9019608, b: 0.4627451, a: 1}
+    sourceArt: {fileID: 21300000, guid: a4dc8419b9087284aad71585e17a1d94, type: 3}
+    fallbackArt: {fileID: 21300000, guid: 559a07d5edd33e443b3e6877711c2938, type: 3}
+    emblem: {fileID: 21300000, guid: 0e897e6de2f4e7b47b9b40844847784c, type: 3}
+    portraitArt: {fileID: 21300000, guid: 509e10e7ad813e14e890b145352f581e, type: 3}

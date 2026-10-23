@@ -1,0 +1,6 @@
+<linker>
+  <!-- JSON replay/profile DTOs are accessed reflectively by DataContractJsonSerializer. -->
+  <assembly fullname="CursedDeck.Core" preserve="all" />
+  <assembly fullname="CursedDeck.Run" preserve="all" />
+  <assembly fullname="CursedDeck.Meta" preserve="all" />
+</linker>

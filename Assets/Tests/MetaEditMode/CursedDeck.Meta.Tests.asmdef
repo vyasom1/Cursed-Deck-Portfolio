@@ -1,0 +1,15 @@
+{
+  "name": "CursedDeck.Meta.Tests",
+  "references": [
+    "CursedDeck.Meta",
+    "CursedDeck.Core",
+    "CursedDeck.Run",
+    "CursedDeck.Data"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

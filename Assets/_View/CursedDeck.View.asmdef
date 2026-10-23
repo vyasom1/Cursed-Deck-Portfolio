@@ -1,0 +1,13 @@
+{
+  "name": "CursedDeck.View",
+  "rootNamespace": "CursedDeck.View",
+  "references": [
+    "CursedDeck.Run",
+    "CursedDeck.Meta",
+    "Unity.ugui",
+    "Unity.TextMeshPro",
+    "CursedDeck.Services"
+  ],
+  "autoReferenced": false,
+  "noEngineReferences": false
+}
