@@ -55,3 +55,6 @@ Thumbs.db
 /Assets/Resources/PerformanceTestRunInfo.json*
 /Assets/Resources/PerformanceTestRunSettings.json*
 /Assets/_Recovery*/
+
+# Generated editor-tool suggestion, not required to clone or build.
+/.vsconfig

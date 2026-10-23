@@ -57,7 +57,7 @@ Relic ScriptableObjects define a stable ID, mechanic, order and parameters. [Rel
 
 ## Validation and devices
 
-The cleaned candidate passed **306 EditMode tests and 9 PlayMode tests**, with zero failures and both Unity processes exiting 0. Validation of a fresh local Git clone and the rebuilt APK is pending; the release is not published.
+A fresh local Git clone, restored through Git LFS without a copied Unity Library, passed **306 EditMode tests and 9 PlayMode tests**, with zero failures and both Unity processes exiting 0. Android script compilation also exited 0. Release APK verification is pending; the release is not published.
 
 Tested on 5 Android devices.
 
