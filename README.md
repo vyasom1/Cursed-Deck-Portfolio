@@ -2,6 +2,8 @@
 
 A portrait solitaire roguelike for Android, set in a haunted casino.
 
+[Download the signed Android APK — v0.4.2](https://github.com/vyasom1/Cursed-Deck-Portfolio/releases/tag/v0.4.2).
+
 Match an exposed card one rank above or below the waste, including King/Ace wraparound. Build a chain for more points, collect relics, and play through three floors of three rounds. The third round on each floor has a dealer rule. New games use a 19-card, two-peak board; older saved layouts retain their original topology.
 
 ## Screenshots
@@ -60,7 +62,7 @@ Relic ScriptableObjects define a stable ID, mechanic, order and parameters. [Rel
 
 ## Validation and devices
 
-A fresh local Git clone, restored through Git LFS without a copied Unity Library, passed **306 EditMode tests and 9 PlayMode tests**, with zero failures and both Unity processes exiting 0. Android script compilation also exited 0. The release APK **0.4.2 (code 6)** built with **0 errors**. Its dedicated portfolio signature, ARM64 contents, portrait/API settings, and ELF/ZIP 16 KB alignment passed inspection. The build inputs match the recorded source/content/configuration after normalizing Unity's ProjectSettings line endings. The build report includes 676 compressed sprite-atlas warnings; these are not a claim of a warning-free build. Publication is pending review.
+A fresh local Git clone, restored through Git LFS without a copied Unity Library, passed **306 EditMode tests and 9 PlayMode tests**, with zero failures and both Unity processes exiting 0. Android script compilation also exited 0. The release APK **0.4.2 (code 6)** built with **0 errors**. Its dedicated portfolio signature, ARM64 contents, portrait/API settings, and ELF/ZIP 16 KB alignment passed inspection. The build inputs match the recorded source/content/configuration after normalizing Unity's ProjectSettings line endings. The build report includes 676 compressed sprite-atlas warnings; these are not a claim of a warning-free build.
 
 Tested on 5 Android devices.
 
@@ -87,7 +89,7 @@ To run tests, use **Window > General > Test Runner** for EditMode and PlayMode. 
 
 Run them sequentially with the Editor closed. The test runner controls shutdown; `-quit` is omitted because it can exit before tests complete. Outputs are ignored.
 
-The signed APK is ready for review. Public download is pending approval; no hosted Release link is claimed yet. APK SHA-256: `ec7ea1145cb13edf77469bbe47addfc65b5430de7574a4a1c8b98061980986de`.
+Download the signed APK from [Release v0.4.2](https://github.com/vyasom1/Cursed-Deck-Portfolio/releases/tag/v0.4.2). APKs and signing files are ignored under `Builds/` and are not committed to source. APK SHA-256: `ec7ea1145cb13edf77469bbe47addfc65b5430de7574a4a1c8b98061980986de`.
 
 ## Limitations and next steps
 
